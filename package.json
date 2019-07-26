@@ -1,0 +1,26 @@
+{
+  "name": "@js-factory/onejs-request",
+  "version": "0.0.1",
+  "description": "A middleware to handle http requests for an onejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-factory/onejs-request.git"
+  },
+  "keywords": [
+    "middleware",
+    "onejs",
+    "http",
+    "fetch",
+    "ajax"
+  ],
+  "author": "js-factory",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-factory/onejs-request/issues"
+  },
+  "homepage": "https://github.com/js-factory/onejs-request#readme"
+}
