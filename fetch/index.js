@@ -103,7 +103,7 @@ function getContentHeader(type = 'JSON') {
 function getJson(url) {
     const headers = new Headers({
         'Content-Type': 'application/json',
-        'x-jabong-response': 'json'
+        'x-response-type': 'json'
     });
     const reqUrl = cacheBust(url);
     const request = new Request(
