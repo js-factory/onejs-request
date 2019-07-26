@@ -1,6 +1,6 @@
 {
   "name": "@js-factory/onejs-request",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A middleware to handle http requests for an onejs app",
   "main": "index.js",
   "scripts": {
